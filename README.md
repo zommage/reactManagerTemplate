@@ -26,5 +26,5 @@
 
 ####
 功能截图
-
+![look](https://github.com/zommage/reactManagerTemplate/blob/master/src/style/imgs/snip1.png)
 ####
