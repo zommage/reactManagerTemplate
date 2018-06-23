@@ -1,5 +1,4 @@
 # reactManagerTemplate
-react manager template
 
 #### 依赖模块
 * react@15.5.0
