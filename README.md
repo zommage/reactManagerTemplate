@@ -24,7 +24,10 @@
 * rsa鉴权, hmac签名, 等实际项目中很有用的功能
 ####
 
-####
-功能截图
+#### 功能截图
 ![look](https://github.com/zommage/reactManagerTemplate/blob/master/src/style/imgs/snip1.png)
+####
+
+#### 安装运行
+1.下载或克隆项目源码
 ####
