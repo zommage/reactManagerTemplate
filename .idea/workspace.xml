@@ -124,7 +124,7 @@
       <find>Cssmodule</find>
       <find>imgsTag</find>
       <find>Gallery</find>
-      <find>React-Admin ©2017 Created by 865470087@qq.com</find>
+      <find />
       <find>pro</find>
       <find>PropTypes</find>
       <find>animationDelayUpdate</find>
@@ -142,7 +142,7 @@
       <find>b1</find>
       <find>logo&quot;</find>
       <find>dao</find>
-      <find>pull-left w-40 mr-m</find>
+      <find />
       <find>img-responsive</find>
       <find>App-logo</find>
       <find>nav-text</find>
@@ -227,9 +227,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="230" />
-    <option name="y" value="57" />
+    <option name="y" value="23" />
     <option name="width" value="1738" />
-    <option name="height" value="997" />
+    <option name="height" value="996" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -254,13 +254,6 @@
               <item name="reactManagerTemplate" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="reactManagerTemplate" type="b2602c69:ProjectViewProjectNode" />
-              <item name="reactManagerTemplate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="draw" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="reactManagerTemplate" type="b2602c69:ProjectViewProjectNode" />
@@ -347,16 +340,15 @@
       <workItem from="1528548728314" duration="2870000" />
       <workItem from="1528686005670" duration="605000" />
       <workItem from="1529476104895" duration="44793000" />
-      <workItem from="1529746628540" duration="2906000" />
+      <workItem from="1529746628540" duration="3365000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="299841000" />
+    <option name="totallyTimeSpent" value="300300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="230" y="57" width="1738" height="997" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18814729" />
       <window_info anchor="bottom" id="TODO" order="6" />
